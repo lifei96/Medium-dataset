@@ -29,7 +29,7 @@ Descriptions for each column in ``user_data.csv``:
   * bio: 1 if the user has a biography, 0 otherwise.
   * posts: Number of posts (articles).
   * responses: Number of responses.
-  * recommends: Number of recommends (this function has been replaced by the "clap" function now).
+  * recommends: Number of recommends (this function has been replaced by the "claps" function).
   * highlights: Number of highlights.
   * facebook: The cross-site linking option to the user's Facebook account. 1 if the user has enabled it, 0 otherwise.
   * twitter: The cross-site linking option to the user's Twitter account. 1 if the user has enabled it, 0 otherwise.
