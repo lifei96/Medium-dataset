@@ -1,6 +1,6 @@
 # An anonymized dataset of 1+ million users in Medium online social network
 
-Understanding Service Integration of Online Social Networks: A Data-Driven Study (full citation below)
+Publication: Understanding Service Integration of Online Social Networks: A Data-Driven Study (full citation below)
 
 Licensed under [Creative Commons Attribution Share Alike 4.0](http://choosealicense.com/licenses/cc-by-sa-4.0/).
 
