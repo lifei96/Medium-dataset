@@ -18,7 +18,7 @@ Each line in ``nodes.txt`` is an ID for a user.
 * [edges.txt](https://drive.google.com/file/d/1YLVO0mj1GPmCAxJRLVxyZnwNF8lxQZZc/view?usp=sharing): Edge list (30,026,896 edges) of the directed social graph.</br>
 Each line in ``edges.txt`` is an directed edge. For example, "0 1" means user 0 is following user 1 in Medium.
 
-* [user_data.csv]()
+* [user_data.csv](https://drive.google.com/file/d/1RKYtWKGv99zoOw1mD_TyTVxBQgkh5pWb/view?usp=sharing)
 
 ## BibTeX
 
